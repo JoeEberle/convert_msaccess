@@ -1,0 +1,28 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-29 17:34:30,594 - INFO - START convert_msaccess =============================================
+2024-03-29 17:34:30,594 - INFO - START convert_msaccess Start Time = 2024-03-29 17:34:30
+2024-03-29 17:34:30,594 - INFO - convert_msaccess Step 0 - Initialize the configuration file parser
+2024-03-29 17:34:30,595 - INFO - Process convert_msaccess Step 0 - Initializing and starting Logging Process.
+2024-03-29 17:34:31,835 - INFO - PERFORMANCE convert_msaccess The total process duration was:1.24
+2024-03-29 17:34:31,835 - INFO - PERFORMANCE convert_msaccess Stop Time = 2024-03-29 17:34:31
+2024-03-29 17:34:31,835 - INFO - PERFORMANCE convert_msaccess Short process duration less than 3 Seconds:1.24
+2024-03-29 17:34:31,835 - INFO - PERFORMANCE convert_msaccess Performance optimization is not reccomended
+2024-03-29 17:34:31,835 - INFO - END convert_msaccess =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-29 17:35:18,136 - INFO - START convert_msaccess =============================================
+2024-03-29 17:35:18,136 - INFO - START convert_msaccess Start Time = 2024-03-29 17:35:18
+2024-03-29 17:35:18,136 - INFO - convert_msaccess Step 0 - Initialize the configuration file parser
+2024-03-29 17:35:18,137 - INFO - Process convert_msaccess Step 0 - Initializing and starting Logging Process.
+2024-03-29 17:35:18,649 - INFO - PERFORMANCE convert_msaccess The total process duration was:0.51
+2024-03-29 17:35:18,649 - INFO - PERFORMANCE convert_msaccess Stop Time = 2024-03-29 17:35:18
+2024-03-29 17:35:18,649 - INFO - PERFORMANCE convert_msaccess Short process duration less than 3 Seconds:0.51
+2024-03-29 17:35:18,649 - INFO - PERFORMANCE convert_msaccess Performance optimization is not reccomended
+2024-03-29 17:35:18,649 - INFO - END convert_msaccess =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
