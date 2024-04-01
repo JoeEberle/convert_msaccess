@@ -26,3 +26,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-31 22:15:27,098 - INFO - START convert_msaccess =============================================
+2024-03-31 22:15:27,098 - INFO - START convert_msaccess Start Time = 2024-03-31 22:15:27
+2024-03-31 22:15:27,098 - INFO - convert_msaccess Step 0 - Initialize the configuration file parser
+2024-03-31 22:15:27,098 - INFO - Process convert_msaccess Step 0 - Initializing and starting Logging Process.
+2024-03-31 22:15:27,743 - INFO - PERFORMANCE convert_msaccess The total process duration was:0.65
+2024-03-31 22:15:27,743 - INFO - PERFORMANCE convert_msaccess Stop Time = 2024-03-31 22:15:27
+2024-03-31 22:15:27,743 - INFO - PERFORMANCE convert_msaccess Short process duration less than 3 Seconds:0.65
+2024-03-31 22:15:27,743 - INFO - PERFORMANCE convert_msaccess Performance optimization is not reccomended
+2024-03-31 22:15:27,743 - INFO - END convert_msaccess =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
