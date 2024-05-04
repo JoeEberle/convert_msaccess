@@ -1,12 +1,12 @@
 
-# Convert Ms Access To New Technology - Soltuion for converting MS access into a new technology stack. 
-Soltuion for converting MS access into a new technology stack. 
+# Convert Ms Access To New Technology - Solution for converting MS access into a new technology stack. 
+Solution for converting MS access into a new technology stack. 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Convert Ms Access To New Technology** - an example for your projects
 
-Soltuion for converting MS access into a new technology stack. 
+Solution for converting MS access into a new technology stack. 
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
+    ## Deliverables or Figures![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
