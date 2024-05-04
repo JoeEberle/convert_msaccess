@@ -18,9 +18,9 @@ Soltuion for converting MS access into a new technology stack.
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -38,4 +38,4 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
+    ## Deliverables or Figures![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
