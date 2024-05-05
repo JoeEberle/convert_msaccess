@@ -46,4 +46,7 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
