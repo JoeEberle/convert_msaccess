@@ -34,7 +34,6 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
