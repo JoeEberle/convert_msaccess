@@ -39,11 +39,8 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
  ![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
