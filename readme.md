@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Convert Ms Access To New Technology 
-    ## Solution for converting MS access into a new technology stack. 
+    
+# Convert Ms Access To New Technology 
+
+## Solution for converting MS access into a new technology stack. 
+
     ![Image image_filename](code.png)
 Welcome to the solution **Convert Ms Access To New Technology** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Convert Ms Access To New Technology** solution reposit
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Convert Ms Access To New Technology** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](convert_msaccess.png)  <br>![additional_image](create_solution.png)  <br>
